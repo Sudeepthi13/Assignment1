@@ -2,20 +2,20 @@ Assignment 1: Frailty Analysis
     |
     |______ Fraility_Analysis
     |______data
-		|______prepocessed_data
+	|______prepocessed_data
                 |______cleaned_fraility_data.csv
         |______raw_data
                 |______fraility_data.csv
-		|______Analysis
-			   |______Results
+    |______Analysis
+	|______Results
                 |______summary_statistics.csv
-         |______Scripts
+        |______Scripts
                 |______data_analysis.py
                 |______preprocess_data.py
-		|______Reports
+    |______Reports
         |______documents
-            |______workflow
+                |______workflow
         |______Figures
-		       	|______ grip_strength_vs_age.png
-		      	|______distribution_of_grip_strength.png
-            |______grip_strength_by_fraility.png
+		|______ grip_strength_vs_age.png
+		|______distribution_of_grip_strength.png
+                |______grip_strength_by_fraility.png
