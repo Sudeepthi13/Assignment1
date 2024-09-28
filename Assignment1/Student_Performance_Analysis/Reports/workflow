@@ -12,8 +12,10 @@ Assignment 1: Student_Performance_Analysis
                 |______preprocess_data.py
     |______Reports
         |______Figures
-		            |______ correlation_heatmap.png
+	        |______ correlation_heatmap.png
                 |______ distribution_of_math_scores.png
-		            |______math_score_by_parental_level_of_education.png
+	        |______math_score_by_parental_level_of_education.png
                 |______reading_vs_writing_score.png
                 |______writing_scores_by_gender.png
+        |______workflow
+        |______Assignment1.docx
